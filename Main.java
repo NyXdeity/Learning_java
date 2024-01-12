@@ -1,4 +1,4 @@
-package java learning.Learing_java
+
 //public class Main {
 //    /*public means this class can e accessed from anywhere.
 //      class is just names group of functions
@@ -9,11 +9,11 @@ package java learning.Learing_java
 //    public static void main(String[]args) {
 //        System.out.print("Hello world!");
 //        /*
-//          "main" this function is the entry ponit of the java program
-//          "static" did'nt understand
+//          "main" this function is the entry point of the java program
+//          "static" didn't understand
 //          "void" to not get any value after the function returns
 //           "String[]" this is an array,
-//           "args" this is a argument
+//           "args" this is an argument
 //
 //        */
 //    }
@@ -23,9 +23,9 @@ package java learning.Learing_java
 //        System.out.println("first program without any help");
 //    }
 //}
-// i want to make a program in this file that creates an class without using the public function.
-class first{
+// I want to make a program in this file that creates a class without using the public function.
+public class Main {
     public static void main(String[] args) {//psvm:shortcut
-        system.out.print("hello world");//sout: shortcut
+        System.out.println("Hello_world");//sout: shortcut
     }
 }
