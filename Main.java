@@ -19,7 +19,7 @@
 // } 
 
 // we can use different function names if we don't add the "public" before the class 
-public class Main {
+public class Main {// wrote this without any help
     public static void main (String[] args){
         System.out.println("first java program");
     }
