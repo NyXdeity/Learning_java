@@ -22,3 +22,4 @@ public class Main {
         System.out.println("first program without any help");
     }
 }
+// i want to make a program in this file that creates an class without using the public function.
