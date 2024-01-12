@@ -1,3 +1,4 @@
+package java learning.Learing_java
 //public class Main {
 //    /*public means this class can e accessed from anywhere.
 //      class is just names group of functions
@@ -17,9 +18,14 @@
 //        */
 //    }
 //}
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("first program without any help");
+//public class Main {
+//    public static void main(String[] args) {
+//        System.out.println("first program without any help");
+//    }
+//}
+// i want to make a program in this file that creates an class without using the public function.
+class first{
+    public static void main(String[] args) {//psvm:shortcut
+        system.out.print("hello world");//sout: shortcut
     }
 }
-// i want to make a program in this file that creates an class without using the public function.
