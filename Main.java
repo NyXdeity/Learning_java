@@ -18,9 +18,9 @@
 //        */
 //    }
 //}
-//public class Main {
-//    public static void main(String[] args) {
-//        System.out.println("hello_world");
-//    }
-//}
+public class Main {
+    public static void main(String[] args) {// shortcut: psvm
+        System.out.println("hello_world");  // shortcut:sout
+    }
+}
 // I want to make a program in this file that creates a class without using the public function.
