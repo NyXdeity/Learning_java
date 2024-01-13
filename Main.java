@@ -24,8 +24,15 @@
 //    }
 //}
 // I want to make a program in this file that creates a class without using the public function.
-public class Main {
-    public static void main(String[] args) {//psvm:shortcut
-        System.out.println("Hello_world");//sout: shortcut
-    }
-}
+
+
+
+// public class Main {
+//    public static void main(String[] args) {//psvm:shortcut
+//        System.out.print("without ln");//sout: shortcut//"println" adds a new line af the "Hello_world" but "print" does not .
+//        System.out.println("with ln");
+//    }
+//}
+
+/// how to take inputs in java:
+
