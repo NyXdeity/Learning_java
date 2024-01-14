@@ -24,7 +24,6 @@
 //    }
 //}
 // I want to make a program in this file that creates a class without using the public function.
-
 //public class Main {
 //    public static void main(String[] args) {//psvm:shortcut
 //        System.out.println("first program without any help");sout: shortcut
