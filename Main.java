@@ -24,3 +24,4 @@
 //    }
 //}
 // I want to make a program in this file that creates a class without using the public function.
+
