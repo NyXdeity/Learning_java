@@ -1,4 +1,4 @@
-
+//
 //public class Main {
 //    /*public means this class can e accessed from anywhere.
 //      class is just names group of functions
@@ -24,4 +24,4 @@
 //    }
 //}
 // I want to make a program in this file that creates a class without using the public function.
-
+//
