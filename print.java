@@ -1,8 +1,14 @@
-public class print {
-    public print() {
-    }
+class print{
+    public static void main(String[]args){
+//public static boolean main(String[]args){ to make it a boolean
+        int x = 10;
 
-    public static void main(String[] var0) {
-        System.out.print("Hello world!");
+        if(x % 2 == 0){
+            System.out.println(x+" is even");
+        }
+        else{
+            System.out.println(x+" is odd");
+        }
+
     }
 }
