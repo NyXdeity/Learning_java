@@ -25,3 +25,16 @@
 //}
 // I want to make a program in this file that creates a class without using the public function.
 //
+class main{
+    public static void main(String[]args){
+
+        int x,y,z, sum;
+        x = 6766;
+        y = 663939;
+        z = -8787;
+
+        sum = x+y+z;
+
+        System.out.println("The sum of " + x + ", "+y+" and "+z+" is: " + sum);
+    }
+}
