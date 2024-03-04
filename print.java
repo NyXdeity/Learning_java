@@ -1,13 +1,22 @@
 class print{
-    public static void main(String[]args){
-//public static boolean main(String[]args){ to make it a boolean
-        int x = 10;
 
-        if(x % 2 == 0){
-            System.out.println(x+" is even");
+    public static void main(String[]args){
+
+        int n, m;
+
+        n = 11;
+        m = 10;
+
+        if(n == m ){
+            System.out.println("both numbers "+n+" and "+m+" are equal");
         }
-        else{
-            System.out.println(x+" is odd");
+
+        else if (n > m){
+                System.out.println(n+" is greater than "+m);
+
+        }
+        else {
+                System.out.println(n+" is smaller than "+m);
         }
 
     }
