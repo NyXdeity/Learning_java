@@ -56,7 +56,22 @@
 //        else{
 //            System.out.println(x+" is odd");
 //        }
+//class Main{
+//    public static void main(String[]args){
 //
+//        byte n, m;
 //
+//        n = 9;
+//        m = 10;
+//        if(n>m) {
+//            System.out.println("n="+n + " is greater than m=" + m);
+//        }
+//        else{
+//            System.out.println("n="+ n+" is less then m="+ m);
+//        }
+//
+//    }
+//}
+
 
 
