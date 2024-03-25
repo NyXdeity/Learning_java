@@ -86,6 +86,8 @@ public class Main {//literals in java
         double D1 = 5.66;//don't really have to use "d" or "D" here can if i want to.
 
         boolean a = true;
+
+        String str = "prince soni";
     }
 
 
