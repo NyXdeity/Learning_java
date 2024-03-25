@@ -72,23 +72,28 @@
 //
 //    }
 //}
-public class Main {//literals in java
-
+//public class Main {//literals in java
+//
+//    public static void main(String[] args) {
+//        byte age_B = 45;
+//        int age_I = 67;
+//        short age_S = 78;
+//        long ageDino = 7676878787L;//write 'L' the end for long numbers to put it in long.
+//
+//        char ch = 'A';//must write characters in single '' while using the char data type.
+//
+//        float f1 = 5.6f;//as the default literals for decimal is double we use "f" or "F" while declaring float,
+//        double D1 = 5.66;//don't really have to use "d" or "D" here can if i want to.
+//
+//        boolean a = true;
+//
+//        String str = "prince soni";
+//    }
+//
+//
+//}
+class Main {
     public static void main(String[] args) {
-        byte age_B = 45;
-        int age_I = 67;
-        short age_S = 78;
-        long ageDino = 7676878787L;//write 'L' the end for long numbers to put it in long.
-
-        char ch = 'A';//must write characters in single '' while using the char data type.
-
-        float f1 = 5.6f;//as the default literals for decimal is double we use "f" or "F" while declaring float,
-        double D1 = 5.66;//don't really have to use "d" or "D" here can if i want to.
-
-        boolean a = true;
-
-        String str = "prince soni";
+        System.out.println("Cats are robots!");
     }
-
-
 }
