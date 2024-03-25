@@ -1,6 +1,30 @@
-public class Super{
+
+//class Super{
+//    public static void main(String[]args){
+//        char singleQuoted ='A';
+//        String doubleQuoted ="A";
+//        System.out.println(singleQuoted+doubleQuoted);
+//    }
+//}
+//public class Super {
+//    public static void main(String[] args) {
+//        int exmpl = 1_000_000;
+//        String line = "A";
+//        System.out.println('A');
+//        System.out.println(line);
+//        System.out.println(exmpl);
+//    }
+//}
+public class Super {
     public static void main(String[] args) {
-        int numPackedApples = 1_000_000;//output=> 1000000 (we can write like this to improve the readability)
-        System.out.println(numPackedApples);
+
+        int numberExample = 123;
+
+        char characterExample = 'J';
+        String stringExample = "Java Beginner";
+
+        System.out.println("Number: " + numberExample);
+        System.out.println("Character: " + characterExample);
+        System.out.println("String: " + stringExample);
     }
 }

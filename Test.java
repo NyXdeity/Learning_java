@@ -14,9 +14,9 @@
 //
 //    }
 //}
-// literals in java
+// literals in java:-
 //INTEGERS
-//class Test{
+// class Test{
 //    public static void main(String[]args){
 //        System.out.print("sum of these numbers is:");//basic sum program
 //        int nums1 = 7;
@@ -27,5 +27,30 @@
 //
 //        int numPackedApples = 1_000_000;//output=> 1000000 (we can write like this to improve the readability)
 //        System.out.println(numPackedApples);
+
 //    }
 //}
+
+//characters:-
+
+//class Test{
+//    public static void main(String[]args){
+//        char charOne ='1';//always write char in ''(single quotes)
+//        int numOne = 1;
+//        System.out.println();
+//    }
+//}
+//
+//Fun fact: characters sit between integers and strings:
+//      they resemble strings, yet you can do math with them.
+//
+//class Test{
+//    public static void main(String[]args){
+//        char charOne ='1';//always write char in ''(single quotes)
+//        int numOne = 1;
+//        int sum = charOne+numOne;
+//        System.out.println(sum);//o/p=> 50. why?
+//    }
+//}
+
+//strings:- sequence of characters, encapsulated by double quotes.
