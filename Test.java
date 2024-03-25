@@ -15,13 +15,13 @@
 //    }
 //}
 
-class Test{
-    public static void main(String[]args){
-        System.out.print("sum of these numbers is:");//basic sum program
-        int nums1 = 7;
-        int nums2 = 56;
-        int nums3 = 78;
-        int sum = nums1+nums2+nums3;
-        System.out.println(sum);
-    }
-}
+//class Test{
+//    public static void main(String[]args){
+//        System.out.print("sum of these numbers is:");//basic sum program
+//        int nums1 = 7;
+//        int nums2 = 56;
+//        int nums3 = 78;
+//        int sum = nums1+nums2+nums3;
+//        System.out.println(sum);
+//    }
+//}
