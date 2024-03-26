@@ -18,13 +18,15 @@
 public class Super {
     public static void main(String[] args) {
 
-        int numberExample = 123;
-
-        char characterExample = 'J';
-        String stringExample = "Java Beginner";
-
-        System.out.println("Number: " + numberExample);
-        System.out.println("Character: " + characterExample);
-        System.out.println("String: " + stringExample);
+//        int numberExample = 123;
+//
+//        char characterExample = 'J';
+//        String stringExample = "Java Beginner";
+//
+//        System.out.println("Number: " + numberExample);
+//        System.out.println("Character: " + characterExample);
+//        System.out.println("String: " + stringExample);
+        String ab = "this sis ";
+        System.out.println(ab.charAt(0));
     }
 }
