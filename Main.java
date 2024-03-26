@@ -97,9 +97,3 @@
 //        System.out.println("Cats are robots!");
 //    }
 //}
-
-class Main {
-    public static void main(String[]args){
-        System.out.println("Hello, World!");
-    }
-}
