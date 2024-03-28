@@ -58,26 +58,9 @@
 //        }
 //    }
 //}
-
 public class Super{
     public static void main(String[] args) {
 
-       byte a = 10;
 
-        double b = 20.0;
-
-        char  c = 'A';
-
-        boolean d = true;
-        long e = 123456789L;
-        float f = 1.23f;
-        byte g = 127;
-        short h = 1000;
-        String result = "Integer: " + a + ", Double: " + b + ", Char: " + c +
-                ", Boolean: " + d + ", Long: " + e +
-                ", Float: " + f + ", Byte: " + g +
-                ", Short: " + h;
-        System.out.println(result);
     }
 }
-
