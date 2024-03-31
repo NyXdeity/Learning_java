@@ -78,3 +78,38 @@ public class Super {
         scanner.close();
     }
 }
+
+
+
+//use of scanner.nextInt/Double/Float/Byte
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Read an integer
+        System.out.print("Enter an integer: ");
+        int number = scanner.nextInt();
+
+        // Read a double
+        System.out.print("Enter a double: ");
+        double decimalValue = scanner.nextDouble();
+
+        // Read a float
+        System.out.print("Enter a float: ");
+        float floatValue = scanner.nextFloat();
+
+        // Read a line of text (including spaces)
+        System.out.print("Enter a sentence: ");
+        String sentence = scanner.nextLine();
+
+        System.out.println("You entered:");
+        System.out.println("Integer: " + number);
+        System.out.println("Double: " + decimalValue);
+        System.out.println("Float: " + floatValue);
+        System.out.println("Sentence: " + sentence);
+
+        scanner.close();
+    }
+}
