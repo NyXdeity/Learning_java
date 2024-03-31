@@ -59,3 +59,22 @@
 //    }
 //}
 
+import java.util.Scanner;
+
+import java.util.Scanner;
+
+public class Super {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Read the number as a double.
+        System.out.print("Enter a number: "); // Prompt the user for input
+        double D = scanner.nextDouble();
+
+        // Convert and print the number to an integer using casting.
+        int integerPart = (int) D;
+        System.out.println("The integer part of the number is: " + integerPart);
+
+        scanner.close();
+    }
+}
