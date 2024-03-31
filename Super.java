@@ -84,7 +84,7 @@ import java.util.Scanner;
 //use of scanner.nextInt/Double/Float/Byte
 import java.util.Scanner;
 
-public class Main {
+public class Super {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
